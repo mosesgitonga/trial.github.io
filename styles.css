@@ -1,0 +1,101 @@
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+}
+
+header {
+  background-color: #f48024;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-family: Raleway, sans-serif;
+  font-weight: bold;
+  color: #fff;
+  font-size: 48px;
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+main {
+  padding: 20px;
+  background-color: #5529A3;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.featured-profile {
+  margin-bottom: 20px;
+}
+
+.featured-profile img {
+  width: 100%;
+}
+
+.featured-profile h3 {
+  font-family: Raleway, sans-serif;
+  font-weight: bold;
+  color: #333;
+  font-size: 24px;
+}
+
+.featured-profile p {
+  font-family: Montserrat, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.featured-profile a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn-primary {
+  background-color: #f48024;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  background-color: #fff;
+  color: #333;
+  padding: 10px 20px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
