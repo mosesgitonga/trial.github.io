@@ -42,7 +42,7 @@ nav ul li a {
 
 main {
   padding: 20px;
-  background-color: #5529A3;
+  background-color: #32AA15;
 }
 
 section {
@@ -67,7 +67,7 @@ footer {
 .featured-profile h3 {
   font-family: Raleway, sans-serif;
   font-weight: bold;
-  color: #333;
+  color: #fff;
   font-size: 24px;
 }
 
@@ -97,5 +97,9 @@ footer {
   border: 1px solid #333;
   border-radius: 5px;
   cursor: pointer;
+}
+
+.name{
+  color: #FFA500;
 }
 
