@@ -7,7 +7,7 @@ body {
 
 header {
   background-color: #f48024;
-  padding: 20px;
+  padding: 2px;
   text-align: center;
 }
 
@@ -41,8 +41,8 @@ nav ul li a {
 }
 
 main {
-  padding: 20px;
-  background-color: #32AA15;
+  padding: 2px;
+  background-color: #f48;
 }
 
 section {
